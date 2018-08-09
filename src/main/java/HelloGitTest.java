@@ -8,6 +8,6 @@ import org.junit.Test;
 public class HelloGitTest {
     @Test
     public void test(){
-        System.out.println("helloGit111");
+        System.out.println("helloGit222");
     }
 }
